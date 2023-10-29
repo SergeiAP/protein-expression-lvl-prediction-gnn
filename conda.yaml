@@ -1,0 +1,13 @@
+name: protein-expression-lvl-prediction-gnn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - networkx
+  - numpy
+  - seaborn
+  - matplotlib
+  - pyg
+  - ipykernel
